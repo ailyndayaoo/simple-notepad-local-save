@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "NoteHub",
+    "slug": "NoteHub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0f14a7f1-b386-4557-b95d-96edb5bf8280"
+      }
+    },
+    "android": {
+      "package": "com.johnlykoabrio.NoteHub"
+    }
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  }
+}
